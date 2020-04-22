@@ -42,4 +42,4 @@ Following status codes in its API:
 | 200 | `Success` |
 | 401 | `Invalid Credentials` |
 | 404 | `Error` |
-| 500 | `INTERNAL SERVER ERROR` |
+| 500 | `Internal Server Error` |
