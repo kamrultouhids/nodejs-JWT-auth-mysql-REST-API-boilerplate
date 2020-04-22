@@ -1,4 +1,4 @@
-## Nodejs RESTful API Boilerplate with JSONWebToken | Express Js | KNEX js | Sequelize js| MYSQL 
+## Nodejs RESTful API Boilerplate with JSONWebToken | Express Js
 
 ### How to use
 
