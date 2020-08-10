@@ -39,7 +39,12 @@ Following status codes in its API:
 
 | Status Code | Description |
 | :--- | :--- |
+| `2xx Success` |
 | 200 | `Success` |
-| 401 | `Invalid Credentials` |
-| 404 | `Error` |
+| 201 | `Created` |
+| `4xx Client Error` |
+| 400 | `Bad Request` |
+| 401 | `Unauthorized` |
+| 404 | `Not Found` |
+| `5xx Server Error` |
 | 500 | `Internal Server Error` |
